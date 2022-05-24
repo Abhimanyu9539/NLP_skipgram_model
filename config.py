@@ -1,0 +1,12 @@
+k = 10
+t = 1e-5
+lr = 0.01
+num_epochs = 50
+batch_size = 512
+context_window = 5
+embedding_size = 64
+input_folder = "Input"
+output_folder = "Output"
+token_file = "tokens.pkl"
+file_name = "complaints.csv"
+col_name = "Consumer complaint narrative"
